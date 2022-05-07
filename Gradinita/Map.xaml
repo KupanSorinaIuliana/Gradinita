@@ -6,7 +6,15 @@
         xmlns:local="clr-namespace:Gradinita"
         mc:Ignorable="d"
         Title="Map" Height="450" Width="800">
-    <Grid>
-        
+    <Grid Opacity="0.9" Margin="-138,-134,-175,-6">
+        <Grid.Background>
+            <ImageBrush ImageSource="/farm-bg.jpeg"/>
+        </Grid.Background>
+        <Image HorizontalAlignment="Left" Height="61" Margin="600,24,0,0" VerticalAlignment="Top" Width="140" Source="arrow.png"/>
+        <Image HorizontalAlignment="Left" Height="77" Margin="432,16,0,0" VerticalAlignment="Top" Width="78" Source="/harvest.png"/>
+        <Image HorizontalAlignment="Left" Height="78" Margin="115,10,0,0" VerticalAlignment="Top" Width="90" Source="/grajd.png" MouseDown="Image_MouseDown"/>
+        <Image HorizontalAlignment="Left" Height="61" Margin="288,24,0,0" VerticalAlignment="Top" Width="140" Source="arrow.png"/>
+        <Image HorizontalAlignment="Left" Margin="-24,333,0,-12" Width="229" Source="/farmer.png"/>
+
     </Grid>
 </Window>

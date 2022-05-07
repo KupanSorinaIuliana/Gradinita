@@ -84,7 +84,7 @@
                             <GradientStop Color="White" Offset="1"/>
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
-                    <Image HorizontalAlignment="Center" Height="81" VerticalAlignment="Top" Width="86" Stretch="Fill" Margin="0,10,0,0" Source="resources/cerc.png"/>
+                    <Image MouseDown="Image_MouseDown" HorizontalAlignment="Center" Height="81" VerticalAlignment="Top" Width="86" Stretch="Fill" Margin="0,10,0,0" Source="resources/cerc.png"/>
                     <TextBox HorizontalAlignment="Center" Height="20" Margin="0,116,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="118"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="154" Margin="238,227,0,0" VerticalAlignment="Top" Width="137" Background="#FF8DD6C9">

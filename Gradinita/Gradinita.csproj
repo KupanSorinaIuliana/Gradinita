@@ -9,14 +9,24 @@
 
   <ItemGroup>
     <None Remove="1.jpeg" />
+    <None Remove="46886.png" />
     <None Remove="adminIcon.png" />
     <None Remove="albina.png" />
+    <None Remove="arrow.png" />
     <None Remove="avion.png" />
     <None Remove="backgroundLogin.jpeg" />
     <None Remove="buburuza.png" />
+    <None Remove="bunny-155674_960_720.png" />
     <None Remove="catel.png" />
     <None Remove="ciupercuta.png" />
+    <None Remove="farm-bg.jpeg" />
+    <None Remove="farmer.png" />
     <None Remove="floricica.png" />
+    <None Remove="gaina.png" />
+    <None Remove="gaini.png" />
+    <None Remove="grajd.jpeg" />
+    <None Remove="grajd.png" />
+    <None Remove="harvest.png" />
     <None Remove="heart.png" />
     <None Remove="help.png" />
     <None Remove="inghetata.png" />
@@ -24,8 +34,12 @@
     <None Remove="masina.png" />
     <None Remove="minge.png" />
     <None Remove="morcovi.png" />
+    <None Remove="oaia.png" />
     <None Remove="patrat.png" />
     <None Remove="pisicuta.png" />
+    <None Remove="png-clipart-sheep-digital-illustration-cartoon-sheep-cute-sheep-other-white.png" />
+    <None Remove="porc.jpeg" />
+    <None Remove="porc.png" />
     <None Remove="resources\adminIcon.png" />
     <None Remove="resources\avion.png" />
     <None Remove="resources\catel.png" />
@@ -37,6 +51,20 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="46886.png" />
+    <Resource Include="arrow.png" />
+    <Resource Include="bunny-155674_960_720.png" />
+    <Resource Include="farm-bg.jpeg" />
+    <Resource Include="farmer.png" />
+    <Resource Include="gaina.png" />
+    <Resource Include="gaini.png" />
+    <Resource Include="grajd.jpeg" />
+    <Resource Include="grajd.png" />
+    <Resource Include="harvest.png" />
+    <Resource Include="oaia.png" />
+    <Resource Include="png-clipart-sheep-digital-illustration-cartoon-sheep-cute-sheep-other-white.png" />
+    <Resource Include="porc.jpeg" />
+    <Resource Include="porc.png" />
     <Resource Include="resources\1.jpeg" />
     <Resource Include="resources\floricica.png" />
     <Resource Include="resources\adminIcon.png" />

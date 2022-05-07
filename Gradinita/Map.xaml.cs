@@ -23,5 +23,12 @@ namespace Gradinita
         {
             InitializeComponent();
         }
+
+        private void Image_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            Game1 game1 = new Game1();
+            game1.Show();
+            Close();
+        }
     }
 }
