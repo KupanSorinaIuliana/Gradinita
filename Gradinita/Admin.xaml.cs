@@ -65,6 +65,69 @@ namespace Gradinita
                 SarciniFacute = 7,
                 Intrebari = "detalii",
             });
+            authors.Add(new Child()
+            {
+                ID = 4,
+                Nume = "Andrei",
+                Simbol = "buburuza",
+                Total = 26,
+                SarciniFacute = 7,
+                Intrebari = "detalii",
+            });
+            authors.Add(new Child()
+            {
+                ID = 5,
+                Nume = "Andrei",
+                Simbol = "buburuza",
+                Total = 26,
+                SarciniFacute = 7,
+                Intrebari = "detalii",
+            });
+            authors.Add(new Child()
+            {
+                ID = 6,
+                Nume = "Andrei",
+                Simbol = "buburuza",
+                Total = 26,
+                SarciniFacute = 7,
+                Intrebari = "detalii",
+            });
+            authors.Add(new Child()
+            {
+                ID = 7,
+                Nume = "Andrei",
+                Simbol = "buburuza",
+                Total = 26,
+                SarciniFacute = 7,
+                Intrebari = "detalii",
+            });
+            authors.Add(new Child()
+            {
+                ID = 8,
+                Nume = "Andrei",
+                Simbol = "buburuza",
+                Total = 26,
+                SarciniFacute = 7,
+                Intrebari = "detalii",
+            });
+            authors.Add(new Child()
+            {
+                ID = 9,
+                Nume = "Andrei",
+                Simbol = "buburuza",
+                Total = 26,
+                SarciniFacute = 7,
+                Intrebari = "detalii",
+            });
+            authors.Add(new Child()
+            {
+                ID = 10,
+                Nume = "Andrei",
+                Simbol = "buburuza",
+                Total = 26,
+                SarciniFacute = 7,
+                Intrebari = "detalii",
+            });
 
             return authors;
         }

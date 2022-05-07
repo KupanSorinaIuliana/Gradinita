@@ -15,10 +15,14 @@
     <None Remove="arrow.png" />
     <None Remove="avion.png" />
     <None Remove="backgroundLogin.jpeg" />
+    <None Remove="banana.png" />
     <None Remove="buburuza.png" />
     <None Remove="bunny-155674_960_720.png" />
     <None Remove="catel.png" />
     <None Remove="ciupercuta.png" />
+    <None Remove="cucumber.png" />
+    <None Remove="farm-bg-6.jpeg" />
+    <None Remove="farm-bg-9-field.jpeg" />
     <None Remove="farm-bg.jpeg" />
     <None Remove="farmer.png" />
     <None Remove="floricica.png" />
@@ -26,10 +30,12 @@
     <None Remove="gaini.png" />
     <None Remove="grajd.jpeg" />
     <None Remove="grajd.png" />
+    <None Remove="grapes.png" />
     <None Remove="harvest.png" />
     <None Remove="heart.png" />
     <None Remove="help.png" />
     <None Remove="inghetata.png" />
+    <None Remove="lettuce.png" />
     <None Remove="maimutica.png" />
     <None Remove="masina.png" />
     <None Remove="minge.png" />
@@ -40,6 +46,8 @@
     <None Remove="png-clipart-sheep-digital-illustration-cartoon-sheep-cute-sheep-other-white.png" />
     <None Remove="porc.jpeg" />
     <None Remove="porc.png" />
+    <None Remove="radish.png" />
+    <None Remove="raspberry.png" />
     <None Remove="resources\adminIcon.png" />
     <None Remove="resources\avion.png" />
     <None Remove="resources\catel.png" />
@@ -47,24 +55,35 @@
     <None Remove="resources\masina.png" />
     <None Remove="resources\patrat.png" />
     <None Remove="resources\triunghi.png" />
+    <None Remove="spinach.png" />
+    <None Remove="tomato.png" />
     <None Remove="triunghi.png" />
+    <None Remove="wicker-basket.png" />
   </ItemGroup>
 
   <ItemGroup>
     <Resource Include="46886.png" />
     <Resource Include="arrow.png" />
+    <Resource Include="banana.png" />
     <Resource Include="bunny-155674_960_720.png" />
+    <Resource Include="cucumber.png" />
+    <Resource Include="farm-bg-6.jpeg" />
+    <Resource Include="farm-bg-9-field.jpeg" />
     <Resource Include="farm-bg.jpeg" />
     <Resource Include="farmer.png" />
     <Resource Include="gaina.png" />
     <Resource Include="gaini.png" />
     <Resource Include="grajd.jpeg" />
     <Resource Include="grajd.png" />
+    <Resource Include="grapes.png" />
     <Resource Include="harvest.png" />
+    <Resource Include="lettuce.png" />
     <Resource Include="oaia.png" />
     <Resource Include="png-clipart-sheep-digital-illustration-cartoon-sheep-cute-sheep-other-white.png" />
     <Resource Include="porc.jpeg" />
     <Resource Include="porc.png" />
+    <Resource Include="radish.png" />
+    <Resource Include="raspberry.png" />
     <Resource Include="resources\1.jpeg" />
     <Resource Include="resources\floricica.png" />
     <Resource Include="resources\adminIcon.png" />
@@ -85,6 +104,9 @@
     <Resource Include="resources\morcovi.png" />
     <Resource Include="resources\patrat.png" />
     <Resource Include="resources\triunghi.png" />
+    <Resource Include="spinach.png" />
+    <Resource Include="tomato.png" />
+    <Resource Include="wicker-basket.png" />
   </ItemGroup>
 
 </Project>

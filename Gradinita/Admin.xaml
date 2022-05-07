@@ -5,12 +5,16 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Gradinita"
         mc:Ignorable="d"
-        Title="Admin" Height="450" Width="800">
+        Title="Admin">
     <Grid>
         <Grid.Background>
             <ImageBrush ImageSource="resources/1.jpeg"/>
         </Grid.Background>
-        <DataGrid x:Name="tableAdmin" HorizontalAlignment="Center" Height="318" VerticalAlignment="Center" Width="362" d:ItemsSource="{d:SampleData ItemCount=5}" RenderTransformOrigin="0.497,0.572" SelectionChanged="DataGrid_SelectionChanged" Opacity="0.8" IsEnabled="False"/>
+        <DataGrid x:Name="tableAdmin" HorizontalAlignment="Center" Height="500" VerticalAlignment="Center" Width="1000" d:ItemsSource="{d:SampleData ItemCount=5}" RenderTransformOrigin="0.497,0.572" SelectionChanged="DataGrid_SelectionChanged" IsEnabled="False" Margin="20,20,20,20" FontSize="16">
+            <DataGrid.Background>
+                <ImageBrush ImageSource="/farm-bg-9-field.jpeg"/>
+            </DataGrid.Background>
+        </DataGrid>
 
     </Grid>
 </Window>

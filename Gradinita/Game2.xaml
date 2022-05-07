@@ -5,8 +5,24 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Gradinita"
         mc:Ignorable="d"
-        Title="Game2" Height="450" Width="800">
+        Title="Game2">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="797*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="/farm-bg-6.jpeg"/>
+        </Grid.Background>
+        <Image HorizontalAlignment="Left" Height="300" Margin="30,313,0,0" VerticalAlignment="Top" Width="320" Source="/wicker-basket.png" Grid.Column="1"/>
+        <Image Grid.Column="1" HorizontalAlignment="Left" Height="142" Margin="109,41,0,0" VerticalAlignment="Top" Width="164" Source="/tomato.png"/>
+        <Image Grid.Column="1" HorizontalAlignment="Left" Height="133" Margin="407,441,0,0" VerticalAlignment="Top" Width="221" Source="/cucumber.png"/>
+        <Image Grid.Column="1" HorizontalAlignment="Left" Height="170" Margin="407,168,0,0" VerticalAlignment="Top" Width="124" Source="/grapes.png"/>
+        <Image Grid.Column="1" HorizontalAlignment="Left" Height="144" Margin="701,439,0,0" VerticalAlignment="Top" Width="135" Source="/banana.png"/>
+        <Image Grid.Column="1" HorizontalAlignment="Left" Height="142" Margin="642,26,0,0" VerticalAlignment="Top" Width="162" Source="/lettuce.png" RenderTransformOrigin="0.147,0.395"/>
+        <Image Grid.Column="1" HorizontalAlignment="Left" Height="201" Margin="979,416,0,0" VerticalAlignment="Top" Width="181" Source="/spinach.png"/>
+        <Image Grid.Column="1" HorizontalAlignment="Left" Height="185" Margin="791,221,0,0" VerticalAlignment="Top" Width="150" Source="/radish.png"/>
+        <Image Grid.Column="1" HorizontalAlignment="Left" Height="171" Margin="997,41,0,0" VerticalAlignment="Top" Width="182" Source="/raspberry.png"/>
+
     </Grid>
 </Window>
