@@ -8,13 +8,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="1.jpeg" />
     <None Remove="adminIcon.png" />
     <None Remove="albina.png" />
     <None Remove="avion.png" />
     <None Remove="backgroundLogin.jpeg" />
     <None Remove="buburuza.png" />
     <None Remove="catel.png" />
-    <None Remove="cerc.png" />
     <None Remove="ciupercuta.png" />
     <None Remove="floricica.png" />
     <None Remove="heart.png" />
@@ -26,30 +26,38 @@
     <None Remove="morcovi.png" />
     <None Remove="patrat.png" />
     <None Remove="pisicuta.png" />
+    <None Remove="resources\adminIcon.png" />
     <None Remove="resources\avion.png" />
+    <None Remove="resources\catel.png" />
+    <None Remove="resources\cerc.png" />
+    <None Remove="resources\masina.png" />
+    <None Remove="resources\patrat.png" />
+    <None Remove="resources\triunghi.png" />
     <None Remove="triunghi.png" />
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="1.jpeg" />
     <Resource Include="adminIcon.png" />
-    <Resource Include="catel.png" />
-    <Resource Include="cerc.png" />
-    <Resource Include="floricica.png" />
+    <Resource Include="resources\floricica.png" />
+    <Resource Include="resources\adminIcon.png" />
+    <Resource Include="resources\catel.png" />
+    <Resource Include="resources\cerc.png" />
     <Resource Include="resources\help.png" />
     <Resource Include="resources\maimutica.png" />
-    <Resource Include="pisicuta.png" />
+    <Resource Include="resources\pisicuta.png" />
     <Resource Include="resources\ciupercuta.png" />
+    <Resource Include="resources\masina.png" />
     <Resource Include="resources\minge.png" />
     <Resource Include="resources\inghetata.png" />
-    <Resource Include="masina.png" />
-    <Resource Include="patrat.png" />
     <Resource Include="resources\albina.png" />
     <Resource Include="resources\avion.png" />
     <Resource Include="resources\backgroundLogin.jpeg" />
     <Resource Include="resources\buburuza.png" />
     <Resource Include="resources\heart.png" />
     <Resource Include="resources\morcovi.png" />
-    <Resource Include="triunghi.png" />
+    <Resource Include="resources\patrat.png" />
+    <Resource Include="resources\triunghi.png" />
   </ItemGroup>
 
 </Project>
