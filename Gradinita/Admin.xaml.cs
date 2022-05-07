@@ -131,5 +131,12 @@ namespace Gradinita
 
             return authors;
         }
+
+        private void Image_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            MainWindow mainWindow = new MainWindow();
+            mainWindow.Show();
+            Close();
+        }
     }
 }

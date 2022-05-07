@@ -26,5 +26,12 @@ namespace Gradinita
             game2.Show();
             Close();
         }
+
+        private void Image_MouseDown_2(object sender, MouseButtonEventArgs e)
+        {
+            MainWindow mainWindow = new MainWindow();
+            mainWindow.Show();
+            Close();
+        }
     }
 }
