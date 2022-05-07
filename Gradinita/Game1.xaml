@@ -5,16 +5,26 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Gradinita"
         mc:Ignorable="d"
-        Title="Game1" Height="450" Width="800">
+        Title="Game1">
     <Grid>
         <Grid.Background>
             <ImageBrush ImageSource="/grajd.jpeg"/>
         </Grid.Background>
-        <Image HorizontalAlignment="Left" Height="189" Margin="632,10,0,0" VerticalAlignment="Top" Width="155" Source="/bunny-155674_960_720.png"/>
-        <Image HorizontalAlignment="Left" Height="161" Margin="10,265,0,0" VerticalAlignment="Top" Width="179" Source="/46886.png"/>
-        <Image HorizontalAlignment="Left" Height="154" Margin="29,35,0,0" VerticalAlignment="Top" Width="178" Source="/oaia.png"/>
-        <Image HorizontalAlignment="Left" Height="148" Margin="347,10,0,0" VerticalAlignment="Top" Width="251" Source="/gaina.png"/>
-        <Image HorizontalAlignment="Left" Height="173" Margin="574,237,0,0" VerticalAlignment="Top" Width="210" Source="/porc.png"/>
+        <Image HorizontalAlignment="Right" Height="189" Margin="0,40,40,0" VerticalAlignment="Top" Width="155" Source="/bunny-155674_960_720.png"/>
+        <Image HorizontalAlignment="Left" Height="161" Margin="30,0,0,30" VerticalAlignment="Bottom" Width="179" Source="/46886.png"/>
+        <Image HorizontalAlignment="Left" Height="154" Margin="60,90,0,0" VerticalAlignment="Top" Width="178" Source="/oaia.png"/>
+        <Image HorizontalAlignment="Center" Height="148" Margin="30,20,0,0" VerticalAlignment="Top" Width="205" Source="/gaina.png"/>
+        <Image HorizontalAlignment="Right" Height="173" Margin="0,0,30,30" VerticalAlignment="Bottom" Width="210" Source="/porc.png"/>
+        <Image Grid.Column="1" HorizontalAlignment="left" Height="88" Margin="0,0,677,350" VerticalAlignment="Top" Width="102" Source="next.png" RenderTransformOrigin="0.5,0.5" MouseDown="Image_MouseDown">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="181.021"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
 
     </Grid>
 </Window>

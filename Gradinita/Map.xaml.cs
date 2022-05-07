@@ -33,5 +33,19 @@ namespace Gradinita
             mainWindow.Show();
             Close();
         }
+
+        private void Image_MouseDown_3(object sender, MouseButtonEventArgs e)
+        {
+            Game3 game3 = new Game3();
+            game3.Show();
+            Close();
+        }
+
+        private void Image_MouseDown_4(object sender, MouseButtonEventArgs e)
+        {
+            Game4 game4 = new Game4();
+            game4.Show();
+            Close();
+        }
     }
 }

@@ -23,6 +23,16 @@
         <Image Grid.Column="1" HorizontalAlignment="Left" Height="201" Margin="979,416,0,0" VerticalAlignment="Top" Width="181" Source="/spinach.png"/>
         <Image Grid.Column="1" HorizontalAlignment="Left" Height="185" Margin="791,221,0,0" VerticalAlignment="Top" Width="150" Source="/radish.png"/>
         <Image Grid.Column="1" HorizontalAlignment="Left" Height="171" Margin="997,41,0,0" VerticalAlignment="Top" Width="182" Source="/raspberry.png"/>
+        <Image Grid.Column="1" HorizontalAlignment="left" Height="88" Margin="10,0,677,350" VerticalAlignment="Top" Width="102" Source="next.png" RenderTransformOrigin="0.5,0.5" MouseDown="Image_MouseDown">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="181.021"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
 
     </Grid>
 </Window>

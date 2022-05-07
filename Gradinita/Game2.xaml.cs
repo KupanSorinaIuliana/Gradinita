@@ -23,5 +23,12 @@ namespace Gradinita
         {
             InitializeComponent();
         }
+
+        private void Image_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            Map map = new Map();
+            map.Show();
+            Close();
+        }
     }
 }

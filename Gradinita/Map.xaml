@@ -15,8 +15,8 @@
         <Image HorizontalAlignment="Left" Height="103" Margin="255,10,0,0" VerticalAlignment="Top" Width="108" Source="/grajd.png" MouseDown="Image_MouseDown"/>
         <Image HorizontalAlignment="Left" Height="61" Margin="487,25,0,0" VerticalAlignment="Top" Width="72" Source="arrow.png"/>
         <Image HorizontalAlignment="Left" Width="229" Source="/farmer.png" Height="229" VerticalAlignment="Bottom" Margin="0, 300, 0, 0"/>
-        <Image HorizontalAlignment="Left" Height="103" Margin="1082,10,0,0" VerticalAlignment="Top" Width="108" Source="/grajd.png" MouseDown="Image_MouseDown"/>
-        <Image HorizontalAlignment="Left" Height="103" Margin="1082,229,0,0" VerticalAlignment="Top" Width="108" Source="/grajd.png" MouseDown="Image_MouseDown"/>
+        <Image HorizontalAlignment="Left" Height="103" Margin="1082,10,0,0" VerticalAlignment="Top" Width="108" Source="/livestock.png" MouseDown="Image_MouseDown_3"/>
+        <Image HorizontalAlignment="Left" Height="103" Margin="1082,229,0,0" VerticalAlignment="Top" Width="108" Source="/number.png" MouseDown="Image_MouseDown_4"/>
         <Image Height="60" Margin="1108,151,0,0" VerticalAlignment="Top" Source="arrow.png" RenderTransformOrigin="0.453,0.405" HorizontalAlignment="Left" Width="70">
             <Image.RenderTransform>
                 <TransformGroup>
