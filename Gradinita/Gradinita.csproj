@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="adminIcon.png" />
     <None Remove="albina.png" />
     <None Remove="avion.png" />
     <None Remove="backgroundLogin.jpeg" />
@@ -17,6 +18,7 @@
     <None Remove="ciupercuta.png" />
     <None Remove="floricica.png" />
     <None Remove="heart.png" />
+    <None Remove="help.png" />
     <None Remove="inghetata.png" />
     <None Remove="maimutica.png" />
     <None Remove="masina.png" />
@@ -29,9 +31,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="adminIcon.png" />
     <Resource Include="catel.png" />
     <Resource Include="cerc.png" />
     <Resource Include="floricica.png" />
+    <Resource Include="resources\help.png" />
     <Resource Include="resources\maimutica.png" />
     <Resource Include="pisicuta.png" />
     <Resource Include="resources\ciupercuta.png" />

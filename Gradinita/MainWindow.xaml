@@ -11,7 +11,7 @@
         <Grid.Background>
             <ImageBrush ImageSource="resources/backgroundLogin.jpeg"/>
         </Grid.Background>
-        <ScrollViewer ScrollViewer.CanContentScroll="True" ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.HorizontalScrollBarVisibility="Visible" Opacity="0.9" RenderTransformOrigin="0.5,0.5" AutomationProperties.IsOffscreenBehavior="Default" FontStretch="Expanded" UseLayoutRounding="True" Grid.IsSharedSizeScope="True" Margin="57,39,54,44">
+        <ScrollViewer ScrollViewer.CanContentScroll="True" ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.HorizontalScrollBarVisibility="Visible" Opacity="0.9" RenderTransformOrigin="0.5,0.5" AutomationProperties.IsOffscreenBehavior="Default" FontStretch="Expanded" UseLayoutRounding="True" Grid.IsSharedSizeScope="True" Margin="108,60,102,44">
             <ScrollViewer.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0" MappingMode="Absolute">
                     <GradientStop Color="Black"/>
@@ -27,6 +27,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="136" VerticalAlignment="Top" Width="137" Source="resources/buburuza.png" Stretch="Fill" Margin="0,-22,0,0"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,116,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="117"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="146" Margin="963,54,0,0" VerticalAlignment="Top" Width="137" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -36,6 +37,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="108" VerticalAlignment="Top" Width="118" Source="resources/albina.png" Stretch="Fill"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,116,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="117"/>
                 </Grid>
                 <TextBox HorizontalAlignment="Center" Height="27" Margin="0,10,0,0" TextWrapping="Wrap" Text="URSULETII" VerticalAlignment="Top" Width="124" FontSize="18" FontWeight="Bold" FontStyle="Italic" TextDecorations="{x:Null}" FontFamily="Times New Roman" TextAlignment="Center" Foreground="#FFFF2F00" SelectionTextBrush="{x:Null}" Background="#FF8DD6C9">
                     <TextBox.OpacityMask>
@@ -53,6 +55,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="110" VerticalAlignment="Top" Width="136"  Stretch="Fill" Source="resources/avion.png" RenderTransformOrigin="-2.058,0.341"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,116,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="117"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="146" Margin="416,54,0,0" VerticalAlignment="Top" Width="126" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -62,6 +65,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Left" Width="164" Stretch="Fill" Source="/triunghi.png" Margin="-20,-20,0,40"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,116,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="118"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="154" Margin="963,227,0,0" VerticalAlignment="Top" Width="137" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -71,6 +75,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="83" VerticalAlignment="Top" Width="90" Stretch="Fill" Margin="0,10,0,0" Source="/patrat.png"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,124,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="118"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="146" Margin="52,54,0,0" VerticalAlignment="Top" Width="137" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -80,6 +85,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="81" VerticalAlignment="Top" Width="86" Stretch="Fill" Margin="0,10,0,0" Source="/cerc.png"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,116,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="118"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="154" Margin="238,227,0,0" VerticalAlignment="Top" Width="137" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -89,6 +95,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="105" VerticalAlignment="Top" Width="116" Source="/catel.png" Stretch="Fill" Margin="0,10,0,0"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,124,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="117"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="154" Margin="52,227,0,0" VerticalAlignment="Top" Width="137" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -98,6 +105,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="112" VerticalAlignment="Top" Width="138" Source="/masina.png" Stretch="Fill"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,124,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="117"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="154" Margin="778,227,0,0" VerticalAlignment="Top" Width="137" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -107,6 +115,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="150" VerticalAlignment="Top" Width="137" Source="/pisicuta.png" Stretch="Fill" Margin="0,-19,0,0"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,124,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="117"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="154" Margin="778,583,0,0" VerticalAlignment="Top" Width="137" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -116,6 +125,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="126" VerticalAlignment="Top" Width="137" Source="/RESOURCES/heart.png" Stretch="Fill" Margin="0,-19,0,0"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,124,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="117"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="154" Margin="963,583,0,0" VerticalAlignment="Top" Width="137" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -125,6 +135,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="126" VerticalAlignment="Top" Width="137" Source="/RESOURCES/heart.png" Stretch="Fill" Margin="0,-19,0,0"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,124,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="117"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="154" Margin="778,405,0,0" VerticalAlignment="Top" Width="137" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -134,6 +145,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="126" VerticalAlignment="Top" Width="137" Source="/RESOURCES/heart.png" Stretch="Fill" Margin="0,-19,0,0"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,124,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="117"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="154" Margin="1135,227,0,0" VerticalAlignment="Top" Width="136" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -143,8 +155,9 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="82" VerticalAlignment="Top" Width="88" Source="/floricica.png" Stretch="Fill" Margin="0,10,0,0"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,124,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="116"/>
                 </Grid>
-                <Grid HorizontalAlignment="Left" Height="154" Margin="1135,54,0,0" VerticalAlignment="Top" Width="136" Background="#FF8DD6C9">
+                <Grid HorizontalAlignment="Left" Height="146" Margin="1135,54,0,0" VerticalAlignment="Top" Width="136" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
                         <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                             <GradientStop Color="Black"/>
@@ -152,6 +165,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="162" VerticalAlignment="Top" Width="184" Source="resources/inghetata.png" Stretch="Fill" Margin="0,-32,0,0"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,116,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="116"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="154" Margin="416,227,0,0" VerticalAlignment="Top" Width="126" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -161,6 +175,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="79" VerticalAlignment="Top" Width="76" Source="resources/minge.png" Stretch="Fill" Margin="0,10,0,0"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,124,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="117"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="154" Margin="590,227,0,0" VerticalAlignment="Top" Width="137" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -170,6 +185,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="97" VerticalAlignment="Top" Width="92" Source="resources/ciupercuta.png" Stretch="Fill" Margin="0,10,0,0"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,124,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="117"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="154" Margin="52,405,0,0" VerticalAlignment="Top" Width="137" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -179,6 +195,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="120" VerticalAlignment="Top" Width="117" Source="resources/maimutica.png" Stretch="Fill"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,125,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="117"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="154" Margin="52,583,0,0" VerticalAlignment="Top" Width="137" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -188,6 +205,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="126" VerticalAlignment="Top" Width="137" Source="/RESOURCES/heart.png" Stretch="Fill" Margin="0,-19,0,0"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,124,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="117"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="154" Margin="238,405,0,0" VerticalAlignment="Top" Width="137" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -197,6 +215,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="126" VerticalAlignment="Top" Width="137" Source="/RESOURCES/heart.png" Stretch="Fill" Margin="0,-19,0,0"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,124,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="117"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="154" Margin="238,583,0,0" VerticalAlignment="Top" Width="138" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -206,6 +225,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="126" VerticalAlignment="Top" Width="137" Source="/RESOURCES/heart.png" Stretch="Fill" Margin="0,-19,0,0"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,124,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="118"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="154" Margin="416,583,0,0" VerticalAlignment="Top" Width="126" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -215,6 +235,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="126" VerticalAlignment="Top" Width="137" Source="/RESOURCES/heart.png" Stretch="Fill" Margin="0,-19,0,0"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,124,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="116"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="154" Margin="416,405,0,0" VerticalAlignment="Top" Width="126" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -224,6 +245,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="126" VerticalAlignment="Top" Width="137" Source="/RESOURCES/heart.png" Stretch="Fill" Margin="0,-19,0,0"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,124,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="118"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="154" Margin="590,405,0,0" VerticalAlignment="Top" Width="137" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -233,6 +255,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="126" VerticalAlignment="Top" Width="137" Source="/RESOURCES/heart.png" Stretch="Fill" Margin="0,-19,0,0"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,124,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="117"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="154" Margin="590,583,0,0" VerticalAlignment="Top" Width="137" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -242,6 +265,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="126" VerticalAlignment="Top" Width="137" Source="/RESOURCES/heart.png" Stretch="Fill" Margin="0,-19,0,0"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,124,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="117"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="154" Margin="963,405,0,0" VerticalAlignment="Top" Width="137" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -251,6 +275,7 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="126" VerticalAlignment="Top" Width="137" Source="/RESOURCES/heart.png" Stretch="Fill" Margin="0,-19,0,0"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,124,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="117"/>
                 </Grid>
                 <Grid HorizontalAlignment="Left" Height="146" Margin="590,54,0,0" VerticalAlignment="Top" Width="137" Background="#FF8DD6C9">
                     <Grid.OpacityMask>
@@ -260,8 +285,11 @@
                         </LinearGradientBrush>
                     </Grid.OpacityMask>
                     <Image HorizontalAlignment="Center" Height="126" VerticalAlignment="Top" Width="137" Source="/RESOURCES/heart.png" Stretch="Fill" Margin="0,-19,0,0"/>
+                    <TextBox HorizontalAlignment="Center" Height="20" Margin="0,116,0,0" TextWrapping="Wrap" Text="Kupan Sorina-Iuliana" VerticalAlignment="Top" Width="117"/>
                 </Grid>
             </Grid>
         </ScrollViewer>
+        <Image HorizontalAlignment="Left" Height="58" Margin="1409,10,0,0" VerticalAlignment="Top" Width="35" Source="resources/help.png"/>
+        <Image HorizontalAlignment="Left" Height="35" Margin="1449,10,0,0" VerticalAlignment="Top" Width="39" Source="/adminIcon.png"/>
     </Grid>
 </Window>
