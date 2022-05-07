@@ -1,0 +1,20 @@
+﻿<Window x:Class="Gradinita.Game1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gradinita"
+        mc:Ignorable="d"
+        Title="Game1" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/grajd.jpeg"/>
+        </Grid.Background>
+        <Image HorizontalAlignment="Left" Height="189" Margin="632,10,0,0" VerticalAlignment="Top" Width="155" Source="/bunny-155674_960_720.png"/>
+        <Image HorizontalAlignment="Left" Height="161" Margin="10,265,0,0" VerticalAlignment="Top" Width="179" Source="/46886.png"/>
+        <Image HorizontalAlignment="Left" Height="154" Margin="29,35,0,0" VerticalAlignment="Top" Width="178" Source="/oaia.png"/>
+        <Image HorizontalAlignment="Left" Height="148" Margin="347,10,0,0" VerticalAlignment="Top" Width="251" Source="/gaina.png"/>
+        <Image HorizontalAlignment="Left" Height="173" Margin="574,237,0,0" VerticalAlignment="Top" Width="210" Source="/porc.png"/>
+
+    </Grid>
+</Window>

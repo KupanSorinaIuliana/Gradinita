@@ -8,7 +8,7 @@
         Title="Admin" Height="450" Width="800">
     <Grid>
         <Grid.Background>
-            <ImageBrush ImageSource="/1.jpeg"/>
+            <ImageBrush ImageSource="resources/1.jpeg"/>
         </Grid.Background>
         <DataGrid x:Name="tableAdmin" HorizontalAlignment="Center" Height="318" VerticalAlignment="Center" Width="362" d:ItemsSource="{d:SampleData ItemCount=5}" RenderTransformOrigin="0.497,0.572" SelectionChanged="DataGrid_SelectionChanged" Opacity="0.8" IsEnabled="False"/>
 
