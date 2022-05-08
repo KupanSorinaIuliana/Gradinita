@@ -5,20 +5,22 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Gradinita"
         mc:Ignorable="d"
-        Title="Game4" Height="642" Width="1059">
+        Title="Game4">
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="797*"/>
+        </Grid.ColumnDefinitions>
         <Grid.Background>
-            <ImageBrush ImageSource="bg-math.jpg"/>
+            <ImageBrush ImageSource="/farm-bg-6.jpeg"/>
         </Grid.Background>
-        <Image HorizontalAlignment="Right" Height="151" Margin="0,23,116,0" VerticalAlignment="Top" Width="116" Source="4.png"/>
-        <Image HorizontalAlignment="Left" Height="161" Margin="161,0,0,24" VerticalAlignment="Bottom" Width="179" Source="chicken.png"/>
-        <Image HorizontalAlignment="Left" Height="93" Margin="96,0,0,24" VerticalAlignment="Bottom" Width="99" Source="chicken.png"/>
-        <Image HorizontalAlignment="Left" Height="94" Margin="327,0,0,24" VerticalAlignment="Bottom" Width="100" Source="chicken.png" RenderTransformOrigin="-0.404,0.877"/>
-        <Image HorizontalAlignment="Left" Height="154" Margin="151,44,0,0" VerticalAlignment="Top" Width="178" Source="carrots.png"/>
-        <Image HorizontalAlignment="Left" Height="148" Margin="161,249,0,0" VerticalAlignment="Top" Width="205" Source="fence.png"/>
-        <Image HorizontalAlignment="Right" Height="132" Margin="0,0,100,282" VerticalAlignment="Bottom" Width="152" Source="3.png"/>
-        <Image HorizontalAlignment="Right" Height="143" Margin="0,0,80,58" VerticalAlignment="Bottom" Width="159" Source="2.png"/>
-        <Image Grid.Column="1" HorizontalAlignment="left" Height="88" Margin="0,0,677,350" VerticalAlignment="Top" Width="102" Source="next.png" RenderTransformOrigin="0.5,0.5" MouseDown="Image_MouseDown">
+        <Image HorizontalAlignment="Left" Height="120" Margin="200,0,0,0" VerticalAlignment="Center" Source="resources/fence.png" Grid.Column="1"/>
+        <Image Grid.Column="1" HorizontalAlignment="Left" Height="142" Margin="200,41,0,0" VerticalAlignment="Top" Width="164" Source="resources/carrots.png"/>
+        <Image Grid.Column="1" HorizontalAlignment="Left" Height="133" Margin="200,0,0,0" VerticalAlignment="Bottom" Width="221" Source="resources/chicken.png"/>
+        <Image Grid.Column="1" HorizontalAlignment="Center" Height="144" Margin="400,500,0,20" VerticalAlignment="Bottom" Width="135" Source="resources/2.png"/>
+        <Image Grid.Column="1" HorizontalAlignment="Center" Height="142" Margin="400,40,0,0" VerticalAlignment="Top" Source="resources/4.png" RenderTransformOrigin="0.147,0.395"/>
+        <Image Grid.Column="1" HorizontalAlignment="Center" Height="185" Margin="400,0,0,0" VerticalAlignment="Center" Width="150" Source="resources/3.png"/>
+        <Image Grid.Column="1" HorizontalAlignment="left" Height="88" Margin="10,0,677,350" VerticalAlignment="Top" Width="102" Source="next.png" RenderTransformOrigin="0.5,0.5" MouseDown="Image_MouseDown">
             <Image.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>

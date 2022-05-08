@@ -61,10 +61,16 @@
     <None Remove="rabbit.png" />
     <None Remove="radish.png" />
     <None Remove="raspberry.png" />
+    <None Remove="resources\2.png" />
+    <None Remove="resources\3.png" />
+    <None Remove="resources\4.png" />
     <None Remove="resources\adminIcon.png" />
     <None Remove="resources\avion.png" />
+    <None Remove="resources\carrots.png" />
     <None Remove="resources\catel.png" />
     <None Remove="resources\cerc.png" />
+    <None Remove="resources\chicken.png" />
+    <None Remove="resources\fence.png" />
     <None Remove="resources\masina.png" />
     <None Remove="resources\patrat.png" />
     <None Remove="resources\triunghi.png" />
@@ -111,6 +117,24 @@
     <Resource Include="radish.png" />
     <Resource Include="raspberry.png" />
     <Resource Include="resources\1.jpeg" />
+    <Resource Include="resources\2.png">
+      <CopyToOutputDirectory></CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="resources\3.png">
+      <CopyToOutputDirectory></CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="resources\4.png">
+      <CopyToOutputDirectory></CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="resources\carrots.png">
+      <CopyToOutputDirectory></CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="resources\chicken.png">
+      <CopyToOutputDirectory></CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="resources\fence.png">
+      <CopyToOutputDirectory></CopyToOutputDirectory>
+    </Resource>
     <Resource Include="resources\floricica.png" />
     <Resource Include="resources\adminIcon.png" />
     <Resource Include="resources\catel.png" />
