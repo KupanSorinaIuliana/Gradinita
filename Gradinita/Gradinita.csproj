@@ -9,58 +9,56 @@
 
   <ItemGroup>
     <None Remove="1.jpeg" />
-    <None Remove="151900.png" />
-    <None Remove="46886.png" />
+    <None Remove="resources/bunny.png" />
+    <None Remove="resources/151900.png" />
+    <None Remove="resources/46886.png" />
     <None Remove="adminIcon.png" />
     <None Remove="albina.png" />
-    <None Remove="arrow.png" />
+    <None Remove="resources/arrow.png" />
     <None Remove="avion.png" />
     <None Remove="backgroundLogin.jpeg" />
-    <None Remove="banana.png" />
-    <None Remove="bg-math.jpg" />
+    <None Remove="resources/banana.png" />
+    <None Remove="resources/bg-math.jpg" />
     <None Remove="buburuza.png" />
-    <None Remove="bunny-155674_960_720.png" />
-    <None Remove="carrot.jpg" />
-    <None Remove="carrot.png" />
+    <None Remove="resources/carrot.jpg" />
+    <None Remove="resources/carrot.png" />
     <None Remove="catel.png" />
     <None Remove="ciupercuta.png" />
-    <None Remove="cow.jpg" />
-    <None Remove="cow.png" />
-    <None Remove="cucumber.png" />
-    <None Remove="eggs.png" />
-    <None Remove="farm-bg-3.jpeg" />
-    <None Remove="farm-bg-6.jpeg" />
-    <None Remove="farm-bg-9-field.jpeg" />
-    <None Remove="farm-bg.jpeg" />
-    <None Remove="farmer.png" />
+    <None Remove="resources/cow.jpg" />
+    <None Remove="resources/cow.png" />
+    <None Remove="resources/cucumber.png" />
+    <None Remove="resources/eggs.png" />
+    <None Remove="resources/farm-bg-3.jpeg" />
+    <None Remove="resources/farm-bg-6.jpeg" />
+    <None Remove="resources/farm-bg-9-field.jpeg" />
+    <None Remove="resources/farm-bg.jpeg" />
+    <None Remove="resources/farmer.png" />
     <None Remove="floricica.png" />
-    <None Remove="gaina.png" />
-    <None Remove="gaini.png" />
-    <None Remove="grajd.jpeg" />
-    <None Remove="grajd.png" />
-    <None Remove="grapes.png" />
-    <None Remove="harvest.png" />
+    <None Remove="resources/gaina.png" />
+    <None Remove="resources/gaini.png" />
+    <None Remove="resources/grajd.jpeg" />
+    <None Remove="resources/grajd.png" />
+    <None Remove="resources/grapes.png" />
+    <None Remove="resources/harvest.png" />
     <None Remove="heart.png" />
     <None Remove="help.png" />
     <None Remove="inghetata.png" />
-    <None Remove="lettuce.png" />
-    <None Remove="livestock.png" />
+    <None Remove="resource/lettuce.png" />
+    <None Remove="resources/livestock.png" />
     <None Remove="maimutica.png" />
     <None Remove="masina.png" />
-    <None Remove="milk.png" />
+    <None Remove="resources/milk.png" />
     <None Remove="minge.png" />
     <None Remove="morcovi.png" />
-    <None Remove="next.png" />
-    <None Remove="number.png" />
-    <None Remove="oaia.png" />
+    <None Remove="resources/next.png" />
+    <None Remove="resources/number.png" />
+    <None Remove="resources/oaia.png" />
     <None Remove="patrat.png" />
     <None Remove="pisicuta.png" />
-    <None Remove="png-clipart-sheep-digital-illustration-cartoon-sheep-cute-sheep-other-white.png" />
-    <None Remove="porc.jpeg" />
-    <None Remove="porc.png" />
-    <None Remove="rabbit.png" />
-    <None Remove="radish.png" />
-    <None Remove="raspberry.png" />
+    <None Remove="resources/porc.png" />
+    <None Remove="resources/rabbit.png" />
+    <None Remove="resources/radish.png" />
+    <None Remove="resources/raspberry.png" />
     <None Remove="resources\2.png" />
     <None Remove="resources\3.png" />
     <None Remove="resources\4.png" />
@@ -74,67 +72,53 @@
     <None Remove="resources\masina.png" />
     <None Remove="resources\patrat.png" />
     <None Remove="resources\triunghi.png" />
-    <None Remove="spinach.png" />
-    <None Remove="tomato.png" />
+    <None Remove="resources/spinach.png" />
+    <None Remove="resources/tomato.png" />
     <None Remove="triunghi.png" />
-    <None Remove="wicker-basket.png" />
+    <None Remove="resources/wicker-basket.png" />
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="151900.png" />
-    <Resource Include="46886.png" />
-    <Resource Include="arrow.png" />
-    <Resource Include="banana.png" />
-    <Resource Include="bg-math.jpg" />
-    <Resource Include="bunny-155674_960_720.png" />
-    <Resource Include="carrot.jpg" />
-    <Resource Include="carrot.png" />
-    <Resource Include="cow.jpg" />
-    <Resource Include="cow.png" />
-    <Resource Include="cucumber.png" />
-    <Resource Include="eggs.png" />
-    <Resource Include="farm-bg-3.jpeg" />
-    <Resource Include="farm-bg-6.jpeg" />
-    <Resource Include="farm-bg-9-field.jpeg" />
-    <Resource Include="farm-bg.jpeg" />
-    <Resource Include="farmer.png" />
-    <Resource Include="gaina.png" />
-    <Resource Include="gaini.png" />
-    <Resource Include="grajd.jpeg" />
-    <Resource Include="grajd.png" />
-    <Resource Include="grapes.png" />
-    <Resource Include="harvest.png" />
-    <Resource Include="lettuce.png" />
-    <Resource Include="livestock.png" />
-    <Resource Include="milk.png" />
-    <Resource Include="next.png" />
-    <Resource Include="number.png" />
-    <Resource Include="oaia.png" />
-    <Resource Include="png-clipart-sheep-digital-illustration-cartoon-sheep-cute-sheep-other-white.png" />
-    <Resource Include="porc.jpeg" />
-    <Resource Include="porc.png" />
-    <Resource Include="rabbit.png" />
-    <Resource Include="radish.png" />
-    <Resource Include="raspberry.png" />
+    <Resource Include="resources\151900.png" />
+    <Resource Include="resources\46886.png" />
+    <Resource Include="resources\arrow.png" />
+    <Resource Include="resources\banana.png" />
+    <Resource Include="resources\bg-math.jpg" />
+    <Resource Include="resources\bunny.png" />
+    <Resource Include="resources\carrot.jpg" />
+    <Resource Include="resources\carrot.png" />
+    <Resource Include="resources\cow.jpg" />
+    <Resource Include="resources\cow.png" />
+    <Resource Include="resources\cucumber.png" />
+    <Resource Include="resources\eggs.png" />
+    <Resource Include="resources\farm-bg-3.jpeg" />
+    <Resource Include="resources\farm-bg-6.jpeg" />
+    <Resource Include="resources\farm-bg-9-field.jpeg" />
+    <Resource Include="resources\farm-bg.jpeg" />
+    <Resource Include="resources\farmer.png" />
+    <Resource Include="resources\gaina.png" />
+    <Resource Include="resources\gaini.png" />
+    <Resource Include="resources\grajd.jpeg" />
+    <Resource Include="resources\grajd.png" />
+    <Resource Include="resources\grapes.png" />
+    <Resource Include="resources\harvest.png" />
+    <Resource Include="resources\lettuce.png" />
+    <Resource Include="resources\livestock.png" />
+    <Resource Include="resources\milk.png" />
+    <Resource Include="resources\next.png" />
+    <Resource Include="resources\number.png" />
+    <Resource Include="resources\oaia.png" />
+    <Resource Include="resources\porc.png" />
+    <Resource Include="resources\rabbit.png" />
+    <Resource Include="resources\radish.png" />
+    <Resource Include="resources\raspberry.png" />
     <Resource Include="resources\1.jpeg" />
-    <Resource Include="resources\2.png">
-      <CopyToOutputDirectory></CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="resources\3.png">
-      <CopyToOutputDirectory></CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="resources\4.png">
-      <CopyToOutputDirectory></CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="resources\carrots.png">
-      <CopyToOutputDirectory></CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="resources\chicken.png">
-      <CopyToOutputDirectory></CopyToOutputDirectory>
-    </Resource>
-    <Resource Include="resources\fence.png">
-      <CopyToOutputDirectory></CopyToOutputDirectory>
-    </Resource>
+	<Resource Include="resources\2.png" />
+    <Resource Include="resources\3.png" />
+    <Resource Include="resources\4.png" />
+    <Resource Include="resources\carrots.png" />
+    <Resource Include="resources\chicken.png" />
+    <Resource Include="resources\fence.png" />
     <Resource Include="resources\floricica.png" />
     <Resource Include="resources\adminIcon.png" />
     <Resource Include="resources\catel.png" />
@@ -154,9 +138,9 @@
     <Resource Include="resources\morcovi.png" />
     <Resource Include="resources\patrat.png" />
     <Resource Include="resources\triunghi.png" />
-    <Resource Include="spinach.png" />
-    <Resource Include="tomato.png" />
-    <Resource Include="wicker-basket.png" />
+    <Resource Include="resources\spinach.png" />
+    <Resource Include="resources\tomato.png" />
+    <Resource Include="resources\wicker-basket.png" />
   </ItemGroup>
 
 </Project>

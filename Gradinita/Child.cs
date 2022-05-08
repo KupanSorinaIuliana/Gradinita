@@ -1,5 +1,4 @@
 ﻿using System;
-using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Gradinita
 {
@@ -15,6 +14,26 @@ namespace Gradinita
 
         public int SarciniFacute { get; set; }
 
-        public String Intrebari { get; set; }
+        public string Sarcina1 { get; set; }
+
+        public string Sarcina2 { get; set; }
+
+        public string Sarcina3 { get; set; }
+
+        public string Sarcina4 { get; set; }
+
+        public string Sarcina5 { get; set; }
+
+        public string Sarcina6 { get; set; }
+
+        public string Sarcina7 { get; set; }
+
+        public string Sarcina8 { get; set; }
+
+        public string Sarcina9 { get; set; }
+
+        public string Sarcina10 { get; set; }
+
+        public TimeSpan TimpParcurs { get; set; }
     }
 }

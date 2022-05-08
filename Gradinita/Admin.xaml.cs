@@ -1,16 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
 using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Shapes;
 
 namespace Gradinita
 {
@@ -43,7 +35,17 @@ namespace Gradinita
                 Simbol = "buburuza",
                 Total = 26,
                 SarciniFacute = 7,
-                Intrebari = "detalii",
+                Sarcina1 = "Efectuat",
+                Sarcina2 = "Efectuat",
+                Sarcina3 = "Efectuat",
+                Sarcina4 = "Efectuat",
+                Sarcina5 = "Gresit",
+                Sarcina6 = "Efectuat",
+                Sarcina7 = "Efectuat",
+                Sarcina8 = "Efectuat",
+                Sarcina9 = "Neefectuat",
+                Sarcina10 = "Efectuat",
+                TimpParcurs = new TimeSpan(0, 9, 11),
             });
 
             authors.Add(new Child()
@@ -53,7 +55,17 @@ namespace Gradinita
                 Simbol = "buburuza",
                 Total = 26,
                 SarciniFacute = 7,
-                Intrebari = "detalii",
+                Sarcina1 = "Efectuat",
+                Sarcina2 = "Efectuat",
+                Sarcina3 = "Efectuat",
+                Sarcina4 = "Efectuat",
+                Sarcina5 = "Efectuat",
+                Sarcina6 = "Efectuat",
+                Sarcina7 = "Efectuat",
+                Sarcina8 = "Efectuat",
+                Sarcina9 = "Efectuat",
+                Sarcina10 = "Efectuat",
+                TimpParcurs = new TimeSpan(0, 9, 11),
             });
 
             authors.Add(new Child()
@@ -63,7 +75,17 @@ namespace Gradinita
                 Simbol = "buburuza",
                 Total = 26,
                 SarciniFacute = 7,
-                Intrebari = "detalii",
+                Sarcina1 = "Efectuat",
+                Sarcina2 = "Efectuat",
+                Sarcina3 = "Efectuat",
+                Sarcina4 = "Efectuat",
+                Sarcina5 = "Efectuat",
+                Sarcina6 = "Efectuat",
+                Sarcina7 = "Efectuat",
+                Sarcina8 = "Efectuat",
+                Sarcina9 = "Efectuat",
+                Sarcina10 = "Efectuat",
+                TimpParcurs = new TimeSpan(0, 9, 11),
             });
             authors.Add(new Child()
             {
@@ -72,7 +94,17 @@ namespace Gradinita
                 Simbol = "buburuza",
                 Total = 26,
                 SarciniFacute = 7,
-                Intrebari = "detalii",
+                Sarcina1 = "Efectuat",
+                Sarcina2 = "Efectuat",
+                Sarcina3 = "Efectuat",
+                Sarcina4 = "Efectuat",
+                Sarcina5 = "Efectuat",
+                Sarcina6 = "Efectuat",
+                Sarcina7 = "Efectuat",
+                Sarcina8 = "Efectuat",
+                Sarcina9 = "Efectuat",
+                Sarcina10 = "Efectuat",
+                TimpParcurs = new TimeSpan(0, 9, 11),
             });
             authors.Add(new Child()
             {
@@ -81,7 +113,17 @@ namespace Gradinita
                 Simbol = "buburuza",
                 Total = 26,
                 SarciniFacute = 7,
-                Intrebari = "detalii",
+                Sarcina1 = "Efectuat",
+                Sarcina2 = "Efectuat",
+                Sarcina3 = "Efectuat",
+                Sarcina4 = "Efectuat",
+                Sarcina5 = "Efectuat",
+                Sarcina6 = "Efectuat",
+                Sarcina7 = "Efectuat",
+                Sarcina8 = "Efectuat",
+                Sarcina9 = "Efectuat",
+                Sarcina10 = "Efectuat",
+                TimpParcurs = new TimeSpan(0, 9, 11),
             });
             authors.Add(new Child()
             {
@@ -90,7 +132,17 @@ namespace Gradinita
                 Simbol = "buburuza",
                 Total = 26,
                 SarciniFacute = 7,
-                Intrebari = "detalii",
+                Sarcina1 = "Efectuat",
+                Sarcina2 = "Efectuat",
+                Sarcina3 = "Efectuat",
+                Sarcina4 = "Efectuat",
+                Sarcina5 = "Efectuat",
+                Sarcina6 = "Efectuat",
+                Sarcina7 = "Efectuat",
+                Sarcina8 = "Efectuat",
+                Sarcina9 = "Efectuat",
+                Sarcina10 = "Efectuat",
+                TimpParcurs = new TimeSpan(0, 9, 11),
             });
             authors.Add(new Child()
             {
@@ -99,7 +151,17 @@ namespace Gradinita
                 Simbol = "buburuza",
                 Total = 26,
                 SarciniFacute = 7,
-                Intrebari = "detalii",
+                Sarcina1 = "Efectuat",
+                Sarcina2 = "Efectuat",
+                Sarcina3 = "Efectuat",
+                Sarcina4 = "Efectuat",
+                Sarcina5 = "Efectuat",
+                Sarcina6 = "Efectuat",
+                Sarcina7 = "Efectuat",
+                Sarcina8 = "Efectuat",
+                Sarcina9 = "Efectuat",
+                Sarcina10 = "Efectuat",
+                TimpParcurs = new TimeSpan(0, 9, 11),
             });
             authors.Add(new Child()
             {
@@ -108,7 +170,17 @@ namespace Gradinita
                 Simbol = "buburuza",
                 Total = 26,
                 SarciniFacute = 7,
-                Intrebari = "detalii",
+                Sarcina1 = "Efectuat",
+                Sarcina2 = "Efectuat",
+                Sarcina3 = "Efectuat",
+                Sarcina4 = "Efectuat",
+                Sarcina5 = "Efectuat",
+                Sarcina6 = "Efectuat",
+                Sarcina7 = "Efectuat",
+                Sarcina8 = "Efectuat",
+                Sarcina9 = "Efectuat",
+                Sarcina10 = "Efectuat",
+                TimpParcurs = new TimeSpan(0, 9, 11),
             });
             authors.Add(new Child()
             {
@@ -117,7 +189,17 @@ namespace Gradinita
                 Simbol = "buburuza",
                 Total = 26,
                 SarciniFacute = 7,
-                Intrebari = "detalii",
+                Sarcina1 = "Efectuat",
+                Sarcina2 = "Efectuat",
+                Sarcina3 = "Efectuat",
+                Sarcina4 = "Efectuat",
+                Sarcina5 = "Efectuat",
+                Sarcina6 = "Efectuat",
+                Sarcina7 = "Efectuat",
+                Sarcina8 = "Efectuat",
+                Sarcina9 = "Efectuat",
+                Sarcina10 = "Efectuat",
+                TimpParcurs = new TimeSpan(0, 9, 11),
             });
             authors.Add(new Child()
             {
@@ -126,7 +208,17 @@ namespace Gradinita
                 Simbol = "buburuza",
                 Total = 26,
                 SarciniFacute = 7,
-                Intrebari = "detalii",
+                Sarcina1 = "Efectuat",
+                Sarcina2 = "Efectuat",
+                Sarcina3 = "Efectuat",
+                Sarcina4 = "Efectuat",
+                Sarcina5 = "Efectuat",
+                Sarcina6 = "Efectuat",
+                Sarcina7 = "Efectuat",
+                Sarcina8 = "Efectuat",
+                Sarcina9 = "Efectuat",
+                Sarcina10 = "Efectuat",
+                TimpParcurs = new TimeSpan(0, 9, 11),
             });
 
             return authors;

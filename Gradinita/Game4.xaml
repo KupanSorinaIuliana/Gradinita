@@ -12,7 +12,7 @@
             <ColumnDefinition Width="797*"/>
         </Grid.ColumnDefinitions>
         <Grid.Background>
-            <ImageBrush ImageSource="/farm-bg-6.jpeg"/>
+            <ImageBrush ImageSource="resources/farm-bg-6.jpeg"/>
         </Grid.Background>
         <Image HorizontalAlignment="Left" Height="120" Margin="200,0,0,0" VerticalAlignment="Center" Source="resources/fence.png" Grid.Column="1"/>
         <Image Grid.Column="1" HorizontalAlignment="Left" Height="142" Margin="200,41,0,0" VerticalAlignment="Top" Width="164" Source="resources/carrots.png"/>
@@ -20,7 +20,7 @@
         <Image Grid.Column="1" HorizontalAlignment="Center" Height="144" Margin="400,500,0,20" VerticalAlignment="Bottom" Width="135" Source="resources/2.png"/>
         <Image Grid.Column="1" HorizontalAlignment="Center" Height="142" Margin="400,40,0,0" VerticalAlignment="Top" Source="resources/4.png" RenderTransformOrigin="0.147,0.395"/>
         <Image Grid.Column="1" HorizontalAlignment="Center" Height="185" Margin="400,0,0,0" VerticalAlignment="Center" Width="150" Source="resources/3.png"/>
-        <Image Grid.Column="1" HorizontalAlignment="left" Height="88" Margin="10,0,677,350" VerticalAlignment="Top" Width="102" Source="next.png" RenderTransformOrigin="0.5,0.5" MouseDown="Image_MouseDown">
+        <Image Grid.Column="1" HorizontalAlignment="left" Height="88" Margin="10,0,677,350" VerticalAlignment="Top" Width="102" Source="resources/next.png" RenderTransformOrigin="0.5,0.5" MouseDown="Image_MouseDown">
             <Image.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>

@@ -10,12 +10,12 @@
         <Grid.Background>
             <ImageBrush ImageSource="resources/1.jpeg"/>
         </Grid.Background>
-        <DataGrid x:Name="tableAdmin" HorizontalAlignment="Center" Height="500" VerticalAlignment="Center" Width="1000" d:ItemsSource="{d:SampleData ItemCount=5}" RenderTransformOrigin="0.497,0.572" SelectionChanged="DataGrid_SelectionChanged" IsEnabled="False" Margin="40,80,40,40" FontSize="16">
+        <DataGrid x:Name="tableAdmin" HorizontalAlignment="Center" VerticalAlignment="Center" d:ItemsSource="{d:SampleData ItemCount=5}" RenderTransformOrigin="0.497,0.572" SelectionChanged="DataGrid_SelectionChanged" IsEnabled="False" Margin="40,80,40,40" FontSize="16">
             <DataGrid.Background>
-                <ImageBrush ImageSource="/farm-bg-9-field.jpeg"/>
+                <ImageBrush ImageSource="resources/farm-bg-9-field.jpeg"/>
             </DataGrid.Background>
         </DataGrid>
-        <Image HorizontalAlignment="Left" Height="61" Margin="20,1,992,0" VerticalAlignment="Top" Width="86" Source="/next.png" RenderTransformOrigin="0.5,0.5" MouseDown="Image_MouseDown">
+        <Image HorizontalAlignment="Left" Height="61" Margin="20,1,992,0" VerticalAlignment="Top" Width="86" Source="resources/next.png" RenderTransformOrigin="0.5,0.5" MouseDown="Image_MouseDown">
             <Image.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -26,7 +26,7 @@
             </Image.RenderTransform>
         </Image>
         <TextBox Height="33" Margin="972,10,20,577" TextWrapping="Wrap" Text="EXPORT" VerticalAlignment="Top" HorizontalAlignment="Right" FontSize="22" FontWeight="Bold" Background="{x:Null}"/>
-        <Image HorizontalAlignment="Right" Height="25" Margin="928,15,120,581" VerticalAlignment="Top" Width="30" Source="/151900.png"/>
+        <Image HorizontalAlignment="Right" Height="25" Margin="928,15,120,581" VerticalAlignment="Top" Width="30" Source="resources/151900.png"/>
 
     </Grid>
 </Window>
